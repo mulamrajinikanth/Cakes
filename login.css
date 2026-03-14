@@ -1,0 +1,27 @@
+a{
+   color: white;
+   font-size: 30px;
+}
+body{
+   background-image: url(h8.jpg);
+}
+form{
+   margin-left: 70px;
+   size: 1000px;
+   border: solid;
+   width: 500px;
+   height: 500px ;
+}
+input{
+   margin-left: 20px;
+}
+label{
+   margin-left: 50px;
+   font-size: 50px;
+}
+a:hover{
+   background-color: red;
+}
+button:hover{
+   background-color: blue;
+}

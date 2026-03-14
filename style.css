@@ -1,0 +1,35 @@
+*{
+    margin: opx;
+    padding: 0px;
+}
+body{
+    background-image: url(h2.jpg);
+    background-repeat: no-repeat;
+    background-size: 1920px 960px;
+}
+#text1{
+    color: gold;
+    font-size: 100px;
+    margin-top: 90px;
+    margin-left: 30px;
+}
+#text2{
+    color: red;
+    margin-left: 40px;
+    font-size: 90px;
+}
+button{
+    height: 80px;
+    width: 180px;
+    background-color: blue;
+    border-radius: 25px;
+}
+button a{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    font-weight: bold;
+}
+button:hover{
+    background-color: darkorange;
+}

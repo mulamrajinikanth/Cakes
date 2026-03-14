@@ -1,0 +1,38 @@
+body{
+    background-image: url(h4.jpg);
+    background-repeat: no-repeat;
+    background-size:1920px 960px ;
+}
+form{
+    border: solid;
+    width: 400px;
+    margin-left: 1020px;
+    margin-top: 40px;
+    background-color: pink;
+}
+h1{
+color: yellow;
+text-align: center;
+}
+label{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
+input{
+    height: 30px;
+    width: 290px;
+    border-radius: 30px ;
+}
+button{
+    height: 40px;
+    width: 150px;
+    background-color: purple;
+    border-radius: 30px;
+    margin-left: 20px;
+    color: yellow;
+    font-size: 30px;
+}
+button:hover{
+    background-color: red;
+}
